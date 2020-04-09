@@ -9,6 +9,8 @@ public class Hello{
 		
 		int myFirstNumber =5+10;
 		System.out.println(myFirstNumber);
+		int mySecondNumber = 100;
+		System.out.println(mySecondNumber);
 
 	}
 	
