@@ -11,6 +11,7 @@ public class Hello{
 		System.out.println(myFirstNumber);
 		int mySecondNumber = 100;
 		System.out.println(mySecondNumber);
+		System.out.println(mySecondNumber);
 
 	}
 	
